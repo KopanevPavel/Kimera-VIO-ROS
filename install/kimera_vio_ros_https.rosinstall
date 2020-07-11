@@ -46,12 +46,12 @@
 - git:
     local-name: Kimera-VIO
     uri: https://github.com/MIT-SPARK/Kimera-VIO.git
-    version: 42ad9ca557656ef3463b8cc3b841fe5a4a36398c
+    version: 13a52d8772305be143ebdf470c8714759e411f59
     # Last tested commit: 2efbc572940dd56b8c6caf6d159cd7afd390d28e
 - git:
     local-name: Kimera-VIO-ROS
     uri: https://github.com/MIT-SPARK/Kimera-VIO-ROS.git
-    version: f6181a1370677ffe8c24253554efebaf787f428e
+    version: db6afe795f3bf6b88842d2c45cb2306926505051
 - git:
     local-name: glog_catkin
     uri: https://github.com/ethz-asl/glog_catkin.git
